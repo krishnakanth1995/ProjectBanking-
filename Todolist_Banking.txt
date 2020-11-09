@@ -1,0 +1,14 @@
+1. Reference number generation upon successfull submission of personal details in account registrationform.
+2.Customerid,Accountnumber,initial Password Generation upon approval of account. 
+3.Transferring above details via email to customer-- possible trigger operation. 
+4.All passwords stored in database should be encrypted. 
+5.For login, Authentication of credentials should be performed for generated initial generated password,accountnumber etc.
+6. For changing credentials also authentication for original passwords should be done.
+7. For forgotID/password, authentication for account number should be done and OTP generation. 
+8.For transferring funds, check for account balances and transferring amounts.
+7.Logic for balance updation after successful transfer and reception of funds.
+8.CRUD operations for changinging passwords,forgetID/Passwords.
+9. Logic for viewing transaction history between two dates. (Possible stored procedure)
+10.In total creation of 12 forms with validations.
+11.Routing should be carefully done. 
+
